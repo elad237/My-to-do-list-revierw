@@ -2,7 +2,7 @@
 
 # To-do-list
 
->In this project, you will add some functionality to your application to make it interactive. The user will also be able to mark task completion by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in local storage.
+>In this project, I have added some functionality to your application to make it interactive. The user will also be able to mark task completion by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in local storage.
 
 ## Built With
 
