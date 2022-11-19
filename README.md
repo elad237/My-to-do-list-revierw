@@ -34,7 +34,7 @@ Set it up localy.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/elad237/My-to-do-list/issues).
+Feel free to check the [issues page](https://github.com/elad237/My-to-do-list-revierw/issues).
 
 ## Show your support
 
