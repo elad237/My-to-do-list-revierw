@@ -2,8 +2,7 @@
 
 # To-do-list
 
-> In this project, I will build a simple yet functional To-do list. A To-do list is a tool that helps to organize your day. It simply lists the things that you need to do and allows you to mark them as complete. I will build a simple website that allows for doing that, and you I will do it using ES6 and Webpack!
->In this project, I implement the CRUD (create, read, update, delete) methods. All the elements of the user interface will be fully functional and your application will be completed.
+>In this project, you will add some functionality to your application to make it interactive. The user will also be able to mark task completion by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in local storage.
 
 ## Built With
 
@@ -21,7 +20,7 @@ To get a local copy up and running:
 
 Clone the repo
 git clone https://github.com/elad237/My-to-do-list-revierw.git
-Set it up localy.
+Set it up locally.
 
 ## Authors
 
