@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <title>To do List</title>
+  <script defer src="main.js"></script></head>
+  <body>
+    <div class="list-wrapper">
+      <div class="complete-list">
+        <div class="title-container">
+          <p class="list-title">Today's To Do</p>
+          <div class="refresh-container"></div>
+        </div>
+        <form class="input-container" id="new-todo-form">
+          <input
+            name="description"
+            type="text"
+            id="list-item"
+            class="list-input"
+            placeholder="Add to your list..."
+          />
+          <div class="enter-container"></div>
+        </form>
+        <ul class="list-container" id="list-container"></ul>
+        <button class="clear-button" id="btn-clear">Clear all completed</button>
+      </div>
+    </div>
+  </body>
+</html>
