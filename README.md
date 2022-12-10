@@ -5,7 +5,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/elad237)
 
 # My-To-do-list
 
